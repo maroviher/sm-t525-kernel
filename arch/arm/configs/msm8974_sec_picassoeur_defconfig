@@ -1,4 +1,5 @@
 # from msm8974_sec_defconfig
+CONFIG_SAMSUNG_PRODUCT_SHIP=y
 CONFIG_AUDIT=y
 # CONFIG_MSM_PIL_PRONTO is not set
 CONFIG_NET_KEY=y
